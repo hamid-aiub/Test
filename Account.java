@@ -9,9 +9,8 @@ public class Account{
     }
 
     void display(){
-        System.out.println("Account number is..."+account_number);
+        System.out.println("Account number is....."+account_number);
         System.out.println("Balance is .."+balance);
-        System.out.println("Per day Tx Limit is ..."+perDayTx);
-
+        System.out.println("Per day Tx Limit is ......"+perDayTx);
     }
 }
